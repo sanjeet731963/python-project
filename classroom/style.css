@@ -1,0 +1,23 @@
+/* h1{
+    color:greenyellow;
+}
+button{
+    background-color: white;
+    color:brown;
+}
+body{
+    background-color: aqua;
+} */
+*{
+    color:brown
+}
+h1,button{
+    color:aqua
+    
+}
+#miss{
+    color:yellow;
+}
+#heading2{
+    color:blueviolet
+}
